@@ -1,0 +1,32 @@
+{
+  "errorPage": "لم يتم العثور على المسار",
+  "empty": "لم يتم العثور على بيانات",
+  "sidebar": {
+    "dashboard": "لوحة التحكم",
+    "cars": "السيارات",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج",
+    "logoName": "موتيف"
+  },
+  "language": "العربية",
+  "inputPlaceholder": "ابحث أو اكتب",
+  "dashboard": {
+    "loan": {
+      "title": "تقدم بطلب للحصول على قرض سيارة!",
+      "description": "هذا مثال على نص مُولد",
+      "button": "اكتشف المزيد"
+    },
+    "promotion": {
+      "title": "لقد حصلت على",
+      "textOfAmountOne": "شارات!",
+      "textOfAmountTwo": "نقاط!",
+      "descriptionOne": "مبروك! أحسنت يا محمد!",
+      "descriptionTwo": "استبدل واطلب مكافآتك!"
+    }
+  },
+  "cars": {
+    "title": "الحجز",
+    "new": "جديد",
+    "carType": "تويوتا"
+  }
+}

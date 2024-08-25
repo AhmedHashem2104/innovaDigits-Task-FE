@@ -1,0 +1,32 @@
+{
+  "errorPage": "Path Not Found",
+  "empty": "No Data Found",
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "cars": "Cars",
+    "settings": "Settings",
+    "logout": "Logout",
+    "logoName": "Motiv"
+  },
+  "language": "English",
+  "inputPlaceholder": "Search or type",
+  "dashboard": {
+    "loan": {
+      "title": "Apply for a car loan !",
+      "description": "This is a sample of a generated text",
+      "button": "Discover More"
+    },
+    "promotion": {
+      "title": "You have earned",
+      "textOfAmountOne": "Badges!",
+      "textOfAmountTwo": "Points!",
+      "descriptionOne": "Hooray! Way to go Mohammed!",
+      "descriptionTwo": "Redeem and claim your rewards!"
+    }
+  },
+  "cars": {
+    "title": "Booking",
+    "new": "New",
+    "carType": "Toyota"
+  }
+}
